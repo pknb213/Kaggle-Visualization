@@ -1,2 +1,4 @@
 # Kaggle_Visualization
-Kaggle Study
+
+This repository is for storing and training examples that visualize datasets provided by Kaggle.
+
